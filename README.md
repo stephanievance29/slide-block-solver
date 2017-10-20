@@ -1,5 +1,5 @@
 # slide-block-solver
-Python Solver for the sliding block puzzle of varying width x
+Python Solver for the sliding block puzzle of varying width x demonstrating the ability to search an entire tree data structure
 
 Width defaults to 3 (i.e. 3x3 8 block sliding puzzle):
 
